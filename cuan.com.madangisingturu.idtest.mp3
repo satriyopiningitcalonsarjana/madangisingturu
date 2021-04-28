@@ -1,0 +1,38 @@
+{
+  "Redirect": [
+    {
+      "STATUS": 0,
+      "LINK": "https://play.google.com/store/apps/details?id=com.madangisingturu.dj_babibumbumbum"
+    }
+  ],
+  "Cuan": [
+    {
+      "MORE_APP_LINK": "https://play.google.com/store/apps/developer?id=madangisingturu",
+      "MAIL": "madangisingturu.developer@gmail.com",
+      "PRIVACY_POLICY": "https://madangisingturudeveloper.blogspot.com/2021/04/privacy-policy.html",
+      "BERKAH": " ",
+      "ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
+      "ADMOB_INTER": "ca-app-pub-3940256099942544/1033173712",
+      "ADMOB_NATIVE": "ca-app-pub-3940256099942544/2247696110",
+      "ADMOB_OPENADS": "ca-app-pub-3940256099942544/3419835294",
+      "hs": "testd7c5cewoj6",
+      "hb": "testw6vs28auh3",
+      "hi": "teste9ih9j0rc3",
+      "hnsmall": "testb65czjivt9",
+	  "STARAPPID": "209888054",
+      "TESTMODE_UNITY_ADS": "true",
+      "unityGameID": "3849505",
+      "Unity_BANNER": "BannerJanganmarah",
+      "Unity_INTER": "InterJanganmarah",
+      "BANNER_MOPUB": "b195f8dd8ded45fe847ad89ed1d016da",
+      "INTER_MOPUB": "24534e1901884e398f1253216226017e",
+      "skema1": "0",
+	  "skema2": "1",
+      "singatur": "oX5OtY2+VvsjSAiDFCezzPhizu4=xxx",
+      "ceksingatur": "0",
+      "pn": "Y29tLm1hZGFuZ2lzaW5ndHVydS5kal9iYWJpYnVtYnVtYnVt",
+      "ISINEOPO": " ",
+	  "newsupdate": "NEW!! : "
+    }
+  ]
+}
